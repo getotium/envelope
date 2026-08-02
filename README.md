@@ -51,7 +51,7 @@ takes the `UnwrapFunc` because recovering the key is the only step that touches 
 
 ## Provenance
 
-Extracted from [Otium](https://getotium.com)'s payload-encryption layer, where it encrypts customer
+Extracted from [Otium](https://getotium.ai)'s payload-encryption layer, where it encrypts customer
 job payloads at rest under per-tenant keys. Published standalone so the data path is auditable.
 
 ## License
