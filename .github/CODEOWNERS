@@ -1,0 +1,13 @@
+# Default owner for every path in this repo.
+#
+# @getotium/dev is auto-requested for review on every pull request. That works only
+# because the team has write access to this repo — a CODEOWNERS entry naming a team
+# without it is ignored outright: GitHub reports "Unknown owner" in the file's syntax
+# check and requests nobody. If ownership ever silently stops applying, check the
+# team's repo access before anything else.
+#
+# Note this REQUESTS review; it does not require it. Blocking a merge on code-owner
+# approval is a branch-protection setting on the default branch, deliberately kept
+# separate from this file.
+
+* @getotium/dev
